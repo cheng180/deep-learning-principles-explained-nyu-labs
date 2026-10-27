@@ -1,4 +1,6 @@
-# 深度学习原理入门-nyu实验
+# Deep Learning Principles Explained — NYU Labs
+
+> 深度学习原理解析——NYU 实验（Lab 1–4）
 
 中国海洋大学《软件工程原理与实践》课程实验资料整理。目前完成实验 1—4：从深度学习基础、卷积神经网络，到 MobileNet、ShuffleNet、SENet、CBAM 和 HybridSN。
 
