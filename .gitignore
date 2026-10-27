@@ -1,0 +1,14 @@
+# 本地数据集和运行产物
+*.tar.gz
+*.zip
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+
+# 本地编辑器文件
+.idea/
+.vscode/
+Typora_Hook_Log.txt
+agent.md
