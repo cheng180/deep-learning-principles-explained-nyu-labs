@@ -33,6 +33,15 @@ data/                             数据集说明，不提交大体积数据集
 - [Lab3](https://oucai.club/classes/se/lab03)
 - [Lab4](https://oucai.club/classes/se/lab04)
 
+## CSDN 文章导读
+
+这些文章是同一组实验的博客版记录，报告和 Notebook 适合查看完整材料，CSDN 文章适合按实验过程阅读和交流：
+
+- [实验二：深度学习基础——PyTorch、优化器与螺旋数据分类](https://blog.csdn.net/cpw123_/article/details/167387481?spm=1001.2014.3001.5501)
+- [实验三：卷积神经网络](https://blog.csdn.net/cpw123_/article/details/168344448)
+- [实验四：MobileNet、ShuffleNet 与 HybridSN](https://blog.csdn.net/cpw123_/article/details/169268167)
+- [作者 CSDN 主页：cpw123_](https://blog.csdn.net/cpw123_)
+
 官网中的部分代码链接跳转到需要登录的飞书页面，因此本仓库中的 Notebook 是按照课程要求和报告中的实际实验过程重新整理的可运行版本，并没有把无法访问的页面内容冒充成官方源代码。
 
 ## 关键实验记录
